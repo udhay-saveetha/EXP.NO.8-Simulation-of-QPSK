@@ -1,1 +1,15 @@
 # EXP.NO.7-Simulation-of-QPSK
+
+7.Simulation of QPSK
+
+# AIM
+
+# SOFTWARE REQUIRED
+
+# ALGORITHMS
+
+# PROGRAM
+
+# OUTPUT
+ 
+# RESULT / CONCLUSIONS

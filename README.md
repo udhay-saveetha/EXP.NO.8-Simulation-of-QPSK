@@ -1,6 +1,6 @@
 # EXP.NO.8-Simulation-of-QPSK
 
-7.Simulation of QPSK
+8.Simulation of QPSK
 
 # AIM
 
